@@ -13,7 +13,7 @@ def link
   puts help
 end
 
-def all_catchphrases
+def all_phrases
   mario
   toadstool
   link
