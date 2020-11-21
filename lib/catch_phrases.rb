@@ -8,3 +8,9 @@ def toadstool
   puts status
 end
 
+def link
+  help = "It's Dangerous To Go Alone! Take This."
+  puts help
+end
+
+def all_
