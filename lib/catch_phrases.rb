@@ -13,4 +13,8 @@ def link
   puts help
 end
 
-def all_
+def all_catchphrases
+  mario
+  toadstool
+  link
+end
